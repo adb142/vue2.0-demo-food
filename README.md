@@ -1,6 +1,4 @@
-# rose
-
-> A Vue.js project
+# vue2.0-demo-food
 
 ## Build Setup
 

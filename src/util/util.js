@@ -72,7 +72,7 @@ function check(username, password) {
         return "请输入密码";
     }
     if (password.trim().length < 6) {
-        return "密码必须大于6位数";
+        return "密码必须大于等于6位数";
     }
     return;
 }

@@ -21,7 +21,7 @@
     "babel-loader": "^6.0.0",
     "babel-preset-latest": "^6.0.0",
     "babel-preset-stage-3":"^6.22.0",
-    "font-awesome":"4.7.0",
+    "font-awesome":"^4.7.0",
     "mysql":"^2.13.0",
     "body-parser":"^1.17.1",
     "cross-env": "^3.0.0",

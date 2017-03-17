@@ -22,7 +22,7 @@ npm run dev
 
 使用了以下技术
 
-vue
-vuex
-vue-router
-express
+vue<br>
+vuex<br>
+vue-router<br>
+express<br>
